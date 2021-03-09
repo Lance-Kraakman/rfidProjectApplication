@@ -1,0 +1,16 @@
+/*
+ * displayProcessor.h
+ *
+ *  Created on: 10/03/2021
+ *      Author: lance
+ */
+
+#ifndef COMPONENTS_PROCESSING_DISPLAYPROCESSING_DISPLAYPROCESSOR_H_
+#define COMPONENTS_PROCESSING_DISPLAYPROCESSING_DISPLAYPROCESSOR_H_
+
+void startDisplayProcessor();
+void configDisplay();
+
+
+
+#endif /* COMPONENTS_PROCESSING_DISPLAYPROCESSING_DISPLAYPROCESSOR_H_ */
