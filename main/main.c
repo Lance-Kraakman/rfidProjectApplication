@@ -6,6 +6,7 @@
 #include "freertos/queue.h"
 #include "../components/Processing/inputProcessing/inputProcessor.h"
 #include "../components/Processing/displayProcessing/displayProcessor.h"
+#include "lvgl.h"
 
 void createApplication(void *arg);
 
